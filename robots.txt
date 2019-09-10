@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohqueighu.metalbaum.com/sitemap.xml
